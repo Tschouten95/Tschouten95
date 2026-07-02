@@ -50,7 +50,6 @@ Currently building an [**event management API**](https://github.com/Tschouten95/
 | [**Fakeaway**](https://github.com/Tschouten95/Fakeaway) | Takeaway ordering platform | PHP / Laravel / React |
 | [**Nexus**](https://github.com/Tschouten95/nexus) | Productivity hub project | PHP / Laravel / React |
 | [**Gator**](https://github.com/Tschouten95/Gator) | CLI blog aggregator with RSS feeds and PostgreSQL | TypeScript |
-| [**Webflyx**](https://github.com/Tschouten95/webflyx) | First personal project | — |
 | [**TS Pokedex**](https://github.com/Tschouten95/ts-pokedex) | REPL Pokedex built on the PokéAPI | TypeScript |
 | [**Asteroids**](https://github.com/Tschouten95/asteroids) | Classic Asteroids clone | Python / Pygame |
 
