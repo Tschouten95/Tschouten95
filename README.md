@@ -60,9 +60,9 @@ Currently building an [**event management API**](https://github.com/Tschouten95/
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tschouten95&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tschouten95&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
