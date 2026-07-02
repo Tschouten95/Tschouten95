@@ -38,7 +38,7 @@ I spend a good chunk of my free time sharpening my backend skills on [**Boot.dev
 - ✅ **1,480+ lessons solved** and a **300+ day study streak**
 - 🏆 Grandmaster-tier achievements in milestones, streaks, and sharpshooter sprees
 
-Currently building an [**event management API**](https://github.com/Tschouten95/event-management-api) focused on concurrency — preventing overselling with transactions and pessimistic locking.
+Currently building [**Nexus**](https://github.com/Tschouten95/nexus), a productivity hub (Laravel + React). Up next: rebuilding my event management API from the ground up, focused on concurrency — preventing overselling with transactions and pessimistic locking.
 
 ---
 
@@ -46,9 +46,9 @@ Currently building an [**event management API**](https://github.com/Tschouten95/
 
 | Project | Description | Tech |
 |---|---|---|
+| [**Nexus**](https://github.com/Tschouten95/nexus) | Productivity hub project | PHP / Laravel / React |
 | [**Event Management API**](https://github.com/Tschouten95/event-management-api) | Ticketing API handling concurrent bookings safely with transactions & pessimistic locking | PHP / Laravel |
 | [**Fakeaway**](https://github.com/Tschouten95/Fakeaway) | Takeaway ordering platform | PHP / Laravel / React |
-| [**Nexus**](https://github.com/Tschouten95/nexus) | Productivity hub project | PHP / Laravel / React |
 | [**Gator**](https://github.com/Tschouten95/Gator) | CLI blog aggregator with RSS feeds and PostgreSQL | TypeScript |
 | [**TS Pokedex**](https://github.com/Tschouten95/ts-pokedex) | REPL Pokedex built on the PokéAPI | TypeScript |
 | [**Asteroids**](https://github.com/Tschouten95/asteroids) | Classic Asteroids clone | Python / Pygame |
