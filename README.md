@@ -38,7 +38,7 @@ I spend a good chunk of my free time sharpening my backend skills on [**Boot.dev
 - ✅ **1,480+ lessons solved** and a **144-day study streak**
 - 🏆 Grandmaster-tier achievements in milestones, streaks, and sharpshooter sprees
 
-Currently building an **event ticketing API** focused on concurrency — preventing overselling with transactions and pessimistic locking.
+Currently building an [**event management API**](https://github.com/Tschouten95/event-management-api) focused on concurrency — preventing overselling with transactions and pessimistic locking.
 
 ---
 
@@ -46,6 +46,8 @@ Currently building an **event ticketing API** focused on concurrency — prevent
 
 | Project | Description | Tech |
 |---|---|---|
+| [**Event Management API**](https://github.com/Tschouten95/event-management-api) | Ticketing API handling concurrent bookings safely with transactions & pessimistic locking | PHP / Laravel |
+| [**Fakeaway**](https://github.com/Tschouten95/Fakeaway) | Takeaway ordering platform | PHP / Laravel |
 | [**Nexus**](https://github.com/Tschouten95/nexus) | Boot.dev capstone project | TypeScript |
 | [**Gator**](https://github.com/Tschouten95/Gator) | CLI blog aggregator with RSS feeds and PostgreSQL | TypeScript |
 | [**Webflyx**](https://github.com/Tschouten95/webflyx) | First personal project | — |
