@@ -57,7 +57,7 @@ Currently building an [**event management API**](https://github.com/Tschouten95/
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/tim-schouten-184436219/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-schouten-184436219/)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-000000?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.boot.dev/u/figure)
 
 </div>
